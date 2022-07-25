@@ -1,6 +1,8 @@
-## Getting Started
+## IMDB Movielist App
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Java application developed during Alura's Online Courses Bootcamp
+
+Summary - This app will use HTTP request to fetch a list from IMDB's API and create a list of Top 250 movies, by rating.
 
 ## Folder Structure
 
